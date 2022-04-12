@@ -1,0 +1,2 @@
+global.thescore=0;
+
